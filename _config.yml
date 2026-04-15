@@ -11,7 +11,7 @@ tagline: Portfolio & Blog
 description: >-
   Personal portfolio website for May Broome.
 
-url: "https://maisy.github.io"
+url: "https://maisyb.github.io"
 
 github:
   username: maisy
@@ -19,7 +19,7 @@ github:
 social:
   name: May Broome
   links:
-    - https://github.com/maisy
+    - https://github.com/MaisyB
 
 # Web Analytics — uncomment and fill in to enable
 # google_analytics:
