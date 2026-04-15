@@ -7,12 +7,13 @@ Hey! I'm May. I'm an upcoming Computer Games Programming graduate looking for th
 
 With a breadth of knowledge across game AI and graphics programming, and professional experience as a Junior Tools Engineer at Playground Games, I aim to project the beauty of the world into the pixels on your screen. <3
 
-Take a look at my portfolio and feel free to contact me through Github for any questions
+Take a look at my portfolio and feel free to contact me through Github for any questions! ^-^
 
 ## Experience
 
 **Bulldog Studio**
 2024 - SPO Game Developer
+
 **Playground Games**
 2023 - Junior Tools Engineer 
 
@@ -20,6 +21,7 @@ Take a look at my portfolio and feel free to contact me through Github for any q
 
 **University of Staffordshire**
 BSc (Hons) Computer Games Programming - Expected 1st Class Honours
+
 **City of Wolverhampton College**
 UAL Level 3 Extended Diploma Creative Media Design (Game Design) - Distinction 
 
