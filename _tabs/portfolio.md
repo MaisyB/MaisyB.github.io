@@ -5,6 +5,8 @@ order: 2
 
 ## DXR Water Caustics Rendering
 
+![DXR Water Caustics Rendering](/assets/img/recording.gif){: .w-100 }
+
 A real-time water caustics rendering project using DirectX Raytracing (DXR).
 
 [View on GitHub](https://github.com/MaisyB/DXR-Water-Caustics-Rendering){: .btn .btn-primary }
