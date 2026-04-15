@@ -14,6 +14,9 @@ order: 2
 
 <div class="portfolio-card">
   <h2>Sparrow Game Engine — WIP</h2>
+  <div class="portfolio-media">
+    <img src="/assets/img/Sparrow.gif" alt="Sparrow Game Engine">
+  </div>
   <p>A collaborative university project building a game engine from the ground up. Acting as technical lead in a team of 7.</p>
   <p><em>Coming soon.</em></p>
 </div>
