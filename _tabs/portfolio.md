@@ -8,7 +8,7 @@ order: 2
   <div class="portfolio-media">
     <img src="/assets/img/recording.gif" alt="DXR Water Caustics Rendering">
   </div>
-  <p>A real-time water caustics rendering project using DirectX Raytracing (DXR).</p>
+  <p>My dissertation: <em>Real-time Water Caustics Rendering</em>, a hybrid rasterisation engine using DXR for dynamic ray-traced water caustics.</p>
   <a href="https://github.com/MaisyB/DXR-Water-Caustics-Rendering" class="btn btn-primary">View on GitHub</a>
 </div>
 
@@ -17,6 +17,6 @@ order: 2
   <div class="portfolio-media">
     <img src="/assets/img/Sparrow.gif" alt="Sparrow Game Engine">
   </div>
-  <p>A collaborative university project building a game engine from the ground up. Acting as technical lead in a team of 7.</p>
+  <p>University Final Year Project: <em>Sparrow Engine<em>, a 2D game engine built from scratch, where I am the technical lead of a team of 7.</p>
   <p><em>Coming soon.</em></p>
 </div>
