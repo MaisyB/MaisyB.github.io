@@ -1,0 +1,100 @@
+theme: jekyll-theme-chirpy
+
+lang: en
+
+timezone: # e.g. America/New_York — set to your timezone
+
+title: May Broome
+
+tagline: Portfolio & Blog
+
+description: >-
+  Personal portfolio website for May Broome.
+
+url: "https://maisy.github.io"
+
+github:
+  username: maisy
+
+social:
+  name: May Broome
+  links:
+    - https://github.com/maisy
+
+# Web Analytics — uncomment and fill in to enable
+# google_analytics:
+#   id: # fill in your Google Analytics ID
+
+theme_mode: # [light | dark] — leave blank to follow system preference
+
+avatar: # /assets/img/avatar.png — add your avatar image and uncomment
+
+toc: true
+
+comments:
+  provider: # [disqus, utterances, giscus] — uncomment and configure to enable
+
+paginate: 10
+
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _tabs
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
+  - README.md
+  - LICENSE
+  - "*.config.js"
+  - package*.json
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
