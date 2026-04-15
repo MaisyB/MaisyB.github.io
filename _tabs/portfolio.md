@@ -17,6 +17,6 @@ order: 2
   <div class="portfolio-media">
     <img src="/assets/img/Sparrow.gif" alt="Sparrow Game Engine">
   </div>
-  <p>University Final Year Project: <em>Sparrow Engine<em>, a 2D game engine built from scratch, where I am the technical lead of a team of 7.</p>
+  <p>University Final Year Project: <em>Sparrow Engine</em>, a 2D game engine built from scratch, where I am the technical lead of a team of 7.</p>
   <p><em>Coming soon.</em></p>
 </div>
