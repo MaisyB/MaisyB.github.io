@@ -5,7 +5,7 @@ order: 2
 
 ## DXR Water Caustics Rendering
 
-![DXR Water Caustics Rendering](/assets/img/recording.gif){: .w-100 }
+![DXR Water Caustics Rendering](/assets/img/recording.gif){: width="60%" }
 
 A real-time water caustics rendering project using DirectX Raytracing (DXR).
 
