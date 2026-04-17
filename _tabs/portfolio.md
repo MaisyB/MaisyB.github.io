@@ -8,7 +8,7 @@ order: 2
   <div class="portfolio-media">
     <img src="/assets/img/recording.gif" alt="DXR Water Caustics Rendering">
   </div>
-  <p>My dissertation: <em>Real-time Water Caustics Rendering</em>, a hybrid rasterisation engine using DXR for dynamic ray-traced water caustics.</p>
+  <p>My dissertation: <em>Real-time Water Caustics Rendering</em>, a hybrid rendering engine using DXR for dynamic ray-traced water caustics.</p>
   <a href="https://github.com/MaisyB/DXR-Water-Caustics-Rendering" class="btn btn-primary">View on GitHub</a>
 </div>
 
